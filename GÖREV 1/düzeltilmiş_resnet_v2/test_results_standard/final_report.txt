@@ -1,0 +1,13 @@
+Model: standard
+Accuracy: 0.9109
+Macro F1: 0.8257
+
+              precision    recall  f1-score   support
+
+   Ritim (0)       0.95      0.94      0.95      2831
+  İletim (1)       0.85      0.57      0.68       247
+  Normal (2)       0.79      0.92      0.85       761
+
+    accuracy                           0.91      3839
+   macro avg       0.87      0.81      0.83      3839
+weighted avg       0.91      0.91      0.91      3839

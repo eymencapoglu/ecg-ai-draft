@@ -1,0 +1,13 @@
+Model: hybrid
+Accuracy: 0.9255
+Macro F1: 0.8517
+
+              precision    recall  f1-score   support
+
+   Ritim (0)       0.96      0.96      0.96      2831
+  İletim (1)       0.71      0.73      0.72       247
+  Normal (2)       0.88      0.88      0.88       761
+
+    accuracy                           0.93      3839
+   macro avg       0.85      0.85      0.85      3839
+weighted avg       0.93      0.93      0.93      3839

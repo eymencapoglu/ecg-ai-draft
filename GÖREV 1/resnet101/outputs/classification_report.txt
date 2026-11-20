@@ -1,0 +1,9 @@
+              precision    recall  f1-score   support
+
+      Normal       0.69      1.00      0.81      3433
+  Arrhythmia       0.00      0.00      0.00      1153
+       Block       0.00      0.00      0.00       414
+
+    accuracy                           0.69      5000
+   macro avg       0.23      0.33      0.27      5000
+weighted avg       0.47      0.69      0.56      5000

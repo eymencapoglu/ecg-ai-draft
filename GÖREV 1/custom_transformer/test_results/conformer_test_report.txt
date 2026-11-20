@@ -1,0 +1,13 @@
+Model: Conformer1D (Transformer tabanlı)
+Accuracy: 0.8622
+Macro F1: 0.7707
+
+              precision    recall  f1-score   support
+
+   Ritim (0)       0.96      0.87      0.91      2831
+  İletim (1)       0.55      0.68      0.61       247
+  Normal (2)       0.71      0.89      0.79       761
+
+    accuracy                           0.86      3839
+   macro avg       0.74      0.81      0.77      3839
+weighted avg       0.88      0.86      0.87      3839

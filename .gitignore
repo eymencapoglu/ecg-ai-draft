@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.vscode/
+.idea/
+.env
+.DS_Store
+Thumbs.db
+# Large datasets and model weights (excluded from Git)
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.npy
+*.npz
+*.mat
+*.dat
+dataset 1/
+dataset 2/
+dataset 3/
+dataset 4/
+birleşik dataset/
+benchmark/
+processed_train/
